@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/LeandroMelloo/nodeAlura#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "circular-json": "^0.3.3",
+    "express": "^4.16.4",
+    "standard": "^12.0.1"
   }
 }
